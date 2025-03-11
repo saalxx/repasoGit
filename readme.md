@@ -1,2 +1,2 @@
 santino alico
-alumno
+alumnogranpersona
