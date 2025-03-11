@@ -1,3 +1,3 @@
 santino alico
 alumno
-residente 
+residente as
