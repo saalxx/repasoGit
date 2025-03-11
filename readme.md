@@ -1,2 +1,3 @@
 santino alico
 alumno
+residente 
